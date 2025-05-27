@@ -28,6 +28,8 @@ The app features:
 
 - 
 ✅ Functionality
+
+
 Add Task: Type in the input field and click "Add".
 
 Complete Task: Click on a task to toggle the completed style.
