@@ -26,7 +26,7 @@ The app features:
 - Buttons to **mark complete** or **delete** tasks
 - Visual indicators for completed tasks
 
-- 
+  
 ✅ Functionality
 
 
