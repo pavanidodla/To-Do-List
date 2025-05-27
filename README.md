@@ -29,7 +29,10 @@ The app features:
 - 
 ✅ Functionality
 Add Task: Type in the input field and click "Add".
+
 Complete Task: Click on a task to toggle the completed style.
+
 Delete Task: Click the ❌ button next to a task to remove it.
+
 Instant Updates: All actions happen dynamically without reloading the page.
 
